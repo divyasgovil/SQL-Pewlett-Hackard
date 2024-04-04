@@ -1,5 +1,5 @@
 # SQL-Pewlett-Hackard
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+This activity is divided into three parts: data modeling, data engineering, and data analysis.
 
 # Data Modeling
 Sketched an Entity Relationship Diagram of the tables after creating the table schema and importing the csv's
